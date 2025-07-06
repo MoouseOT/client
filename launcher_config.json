@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "MoouseOT",
-	"newClientUrl" : "https://mega.nz/file/XMxlxTIS#UHvWJ3xAKMTrWjqa-unWSYhgSE95BdljgOltOWr83hQ",
+	"newClientUrl" : "https://github.com/MoouseOT/client/raw/refs/heads/main/MoouseOT-Client-15.zip",
 	"clientExecutable": "client.exe"
 }
